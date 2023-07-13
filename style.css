@@ -30,7 +30,7 @@
 }
 
 .preview {
-  font-family: 'VNM';
+  font-family: 'VNM', sans-serif;
   font-weight: bold;
   color: white;
   white-space: nowrap;
