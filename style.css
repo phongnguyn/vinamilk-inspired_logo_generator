@@ -1,7 +1,7 @@
 @font-face {
   font-family: VNM;
   font-weight: bold;
-  src: url("../font/VNM\ Sans\ Display\ Bold.otf") format("opentype");
+  src: url("../../font/VNM\ Sans\ Display\ Bold.otf") format("opentype");
 }
 
 *{
