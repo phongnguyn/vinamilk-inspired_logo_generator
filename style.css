@@ -1,0 +1,56 @@
+@font-face {
+  font-family: VNM;
+  font-weight: bold;
+  src: url("../font/VNM\ Sans\ Display\ Bold.otf") format("opentype");
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.container input, button {
+  font-size: 24px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.preview {
+  margin-top: 30px;
+  height: 500px;
+  width: 750px;
+  padding: 0px 100px;
+  background-color: rgb(0, 0, 180);
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+.preview {
+  font-family: 'VNM';
+  font-weight: bold;
+  color: white;
+  white-space: nowrap;
+}
+
+.main-p {
+  width: 100%;
+  text-align: center;
+}
+
+.left-p, .right-p{
+  width: 20%;
+}
+
+.right-p {text-align: right;}
+
+header {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 60px;
+}
+
