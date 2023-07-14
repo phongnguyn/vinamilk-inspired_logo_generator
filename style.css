@@ -1,7 +1,7 @@
 @font-face {
   font-family: VNM;
   font-weight: bold;
-  src: url("../Fonts/VNM-Sans-Display-Bold.ttf") format("truetype");
+  src: url("./Fonts/VNM-Sans-Display-Bold.ttf") format("truetype");
 }
 
 *{
